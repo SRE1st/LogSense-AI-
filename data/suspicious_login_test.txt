@@ -1,0 +1,6 @@
+cat > data/suspicious_login_test.txt << 'EOF'
+Nov  6 13:15:21 ubuntu sshd[4001]: Failed password for root from 203.0.113.45 port 51234 ssh2
+Nov  6 13:15:25 ubuntu sshd[4002]: Failed password for root from 203.0.113.45 port 51235 ssh2
+Nov  6 13:15:29 ubuntu sshd[4003]: Failed password for root from 203.0.113.45 port 51236 ssh2
+Nov  6 13:16:03 ubuntu sshd[4004]: Accepted password for root from 203.0.113.45 port 51237 ssh2
+EOF

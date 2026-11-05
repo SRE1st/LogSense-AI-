@@ -1,0 +1,6 @@
+cat > data/invalid_user_test.txt << 'EOF'
+Nov  6 14:15:21 ubuntu sshd[5001]: Invalid user hacker from 203.0.113.45 port 51234
+Nov  6 14:15:35 ubuntu sshd[5002]: Invalid user administrator from 203.0.113.45 port 51235
+Nov  6 14:15:49 ubuntu sshd[5003]: Invalid user guest from 203.0.113.45 port 51236
+Nov  6 14:16:03 ubuntu sshd[5004]: Invalid user testuser from 203.0.113.45 port 51237
+EOF

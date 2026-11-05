@@ -1,0 +1,7 @@
+Nov  3 10:15:21 ubuntu sshd[1234]: Failed password for root from 192.168.1.15 port 51234 ssh2
+Nov  3 10:15:25 ubuntu sshd[1235]: Failed password for root from 192.168.1.15 port 51235 ssh2
+Nov  3 10:15:29 ubuntu sshd[1236]: Failed password for root from 192.168.1.15 port 51236 ssh2
+Nov  3 10:16:03 ubuntu sshd[1237]: Accepted password for admin from 192.168.1.20 port 51237 ssh2
+Nov  3 10:17:10 ubuntu sshd[1238]: Invalid user hacker from 192.168.1.50 port 51238
+Nov  3 10:18:12 ubuntu sshd[1239]: Failed password for test from 192.168.1.50 port 51239 ssh2
+Nov  3 10:19:30 ubuntu sshd[1240]: Accepted publickey for user from 192.168.1.25 port 51240 ssh2

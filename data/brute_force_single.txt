@@ -1,0 +1,5 @@
+Nov  6 10:15:21 ubuntu sshd[1234]: Failed password for root from 203.0.113.45 port 51234 ssh2
+Nov  6 10:15:25 ubuntu sshd[1235]: Failed password for root from 203.0.113.45 port 51235 ssh2
+Nov  6 10:15:29 ubuntu sshd[1236]: Failed password for root from 203.0.113.45 port 51236 ssh2
+Nov  6 10:15:35 ubuntu sshd[1237]: Failed password for root from 203.0.113.45 port 51237 ssh2
+Nov  6 10:15:42 ubuntu sshd[1238]: Failed password for root from 203.0.113.45 port 51238 ssh2
