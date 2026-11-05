@@ -58,11 +58,10 @@ LogSense-AI/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/LogSense-AI.git
+git clone https://github.com/SRE1st/LogSense-AI.git
 cd LogSense-AI
 ```
 
-Replace `YOUR-USERNAME` with your GitHub username.
 
 ### 2. Create a virtual environment
 
@@ -96,7 +95,6 @@ Create a `.env` file in the project root:
 GROQ_API_KEY=your_groq_api_key
 ```
 
-Never upload your API key or `.env` file to GitHub.
 
 ### 5. Run the application
 
